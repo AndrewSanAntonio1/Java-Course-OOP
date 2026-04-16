@@ -27,8 +27,7 @@ public class Car extends Vehicle{
         acOn = true;
         System.out.println("Air conditioning is ON.");
     }
-
-    // Overriding accelerate for smoother acceleration
+    
     @Override
     public void accelerate(double amount) {
         if (isRunning) {
