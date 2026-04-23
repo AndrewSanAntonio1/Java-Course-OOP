@@ -1,3 +1,3 @@
 # Java-Course-OOP
-Solving Situational problem in OOP
-Solving DSA
+* Solving Situational problem in OOP
+* Solving DSA
